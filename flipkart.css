@@ -1,0 +1,113 @@
+*{
+    background-color: white;
+}
+
+
+
+
+.bar{
+    margin-left: 50px;
+}
+
+.font{
+    font-family: "Comic Sans MS", Times, serif;
+}
+
+.font_arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.white_font{
+    color:white;
+}
+
+.bar_padding{
+    padding-left: 30px;
+}
+
+.footer_padding{
+    padding-left:100px;
+}
+
+
+
+.fontsize{
+    font-size:xx-large;
+}
+
+.fontcolor{
+    color: blue;
+}
+.padding{
+    margin-left: 50px;
+}
+
+.search_border{
+    padding-left: 20px;
+    border: 2px solid rgb(127, 126, 126);
+    border-radius: 10px;
+}
+
+
+.border{
+    border:2px solid black;
+ 
+}
+
+.box1{
+    border: 2px solid black;
+    padding:10px;
+    margin-left: 10px;
+    width:200px;
+    height:200px;
+}
+
+.box1:hover{
+    background-color: rgb(231, 227, 227);
+}
+
+.box1:active{
+    background-color: rgb(163, 156, 156);
+}
+
+.text_center{
+    text-align: center;
+}
+
+.login_border{
+    border:1px solid white;
+    border-radius: 5px;
+}
+
+.login_border:hover{
+    background-color: blue;
+}
+
+#dot_border{
+    border: 1px white;
+    width:2px;
+}
+
+#dot:hover{
+    background-color: rgb(212, 207, 207);
+}
+
+html{
+    box-sizing: border-box;
+}
+
+black_background{
+    background-color: black;
+}
+
+.ho{
+
+}
+
+.ho:hover{
+    background-color: rgb(229, 225, 225);
+}
+
+.ho:active{
+    background-color: rgb(177, 171, 171);
+}
